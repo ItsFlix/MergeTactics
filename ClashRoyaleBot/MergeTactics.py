@@ -11,9 +11,10 @@ import mss
 pyautogui.useImageNotFoundException()
 
 # === Folder Directories ===
-elixir_folder_dir = "C:/Users/alect/Desktop/ClashRoyale/MergeTactics/Elixir"
-cards_folder_dir = "C:/Users/alect/Desktop/ClashRoyale/MergeTactics/Cards"
-properties_folder_dir = "C:/Users/alect/Desktop/ClashRoyale/MergeTactics/Properties"
+main_dir = "C:/Users/???/Desktop/ClashRoyaleBot/MergeTactics"
+elixir_folder_dir = maindir + "/Elixir"
+cards_folder_dir = maindir + "/Cards"
+properties_folder_dir = maindir + "/Properties"
 
 
 # === Shared Global Elixir State ===
